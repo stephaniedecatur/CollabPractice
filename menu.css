@@ -1,0 +1,54 @@
+.bg {
+    background-color: rgb(83, 9, 4);
+    
+}
+           
+.logo {
+    margin-top: -5px;
+    margin-left: -10px;
+
+}
+
+.menubar {
+    color: bisque;
+    margin-top: -1700px;
+    margin-left: 0px;
+    font-size: 12px;
+    
+}
+
+.menu {
+    
+    margin-top: 20px;
+    margin-left: 0px;
+}
+
+.h1 {
+    font-size: 25px;
+}
+
+p {
+    font-size: 15px;
+}
+
+.flex1 {
+    margin-top: 50px;
+    margin-left: 0px;    
+    
+}
+
+.flex2 {
+    margin-top: 50px;
+    margin-left: 200px;
+}
+
+.flex3 {
+    margin-top: 25px;
+    margin-left: 100px;
+}
+
+.flex4 {
+    margin-top: -500px;
+    margin-left: 1000px;
+ 
+}  

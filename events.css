@@ -1,0 +1,33 @@
+#back {
+    background-image: url(/img/events.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+        
+}
+
+
+.center {
+    background-color: rgb(83, 9, 4);
+    flex-wrap: wrap;
+    height: 1300px;
+    width: 305px;
+    margin-top: -40px;
+    margin-left: -15px;
+   
+  }
+
+  .logo {
+    margin-top: -1265px;
+    justify-content: flex-start;
+    margin-left: -15px;
+    
+  }
+
+  .h2 {
+      color: bisque;
+      text-align: center;
+  }
+
+.p1 {
+    color: bisque;
+}
