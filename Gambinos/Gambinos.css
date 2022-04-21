@@ -1,0 +1,118 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url("https://schist.org/wp-content/uploads/2019/02/Schenectady_27048.jpg");
+    background-size: cover;
+}
+.menu{
+        background-image: url("https://schist.org/wp-content/uploads/2019/02/Schenectady_27048.jpg");
+        background-size: 1500px 1500px;
+}
+
+
+a{
+    color: white;
+    text-shadow: 1px 1px red;
+    text-decoration: none;
+}
+
+.dropdown {
+    float: right;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.dropdown li{
+    display: inline-flex;
+}
+.dropdown li:hover {
+    text-shadow: 0px 0px 15px black;
+     
+}
+
+.gambino{
+    float: left;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    text-shadow: 1px 1px red;
+    text-decoration: none;
+    
+}
+
+
+.logo{
+     width: 25px;
+     height: 25px;
+     top: 0px;
+     left: 185px;
+     position: absolute;
+ }
+
+ .home{
+     top: 50px;
+    left: 315px;
+     color: white;     
+     text-shadow: 1px 1px red;     
+     position: absolute;
+ }
+
+ .about{
+     color: white;
+     text-shadow: 1px 1px red;
+ }
+ 
+ .hours{
+     top: 100px;
+     left: 475px;
+    position: absolute;
+     color: red;
+ }
+
+ ul{
+     list-style: none;
+ }
+
+ .menu_link{
+    top: 500px;
+     padding: 150px;
+     text-align: center;
+
+
+ }
+
+ .sandwich{
+     padding: 30px;
+     display: inline-flex;
+     gap: 400px;
+
+
+
+ }
+ .specials{
+     text-align: center;
+     font-size: larger;
+ }
+ .abs{
+    position: absolute;
+    top: 350px;
+    left: 275px;
+    border: dotted 2px red;
+    width: 250px;
+ }
+
+ .pizza{
+width: 175px;
+top: 75px;
+left: -345px;
+position: absolute;
+ }
+#pep{
+width: 145px;
+top: 75px;
+left: -175px;
+position: absolute;
+
+}
